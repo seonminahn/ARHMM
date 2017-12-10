@@ -4,7 +4,7 @@ a Peru Margin Multi-Proxy Holocene Record Shows Correlation Not Cause, Flickerin
 
 To run the code,
 * Locate data under the newData folder
-* Download the fminsearchbnd and fminsearchcon function files from File Exchange: 
+* Download the fminsearchbnd and fminsearchcon function files from File Exchange and locate under the hmm_ar_2_state folder. 
     https://www.mathworks.com/matlabcentral/fileexchange/8277-fminsearchbnd--fminsearchcon Software
 * Run the run_hmm_hmmar1001.m script file to run the algorithm. 
 
